@@ -78,4 +78,4 @@ This dashboard uses simulated data for demonstration purposes only. The numbers,
 ---
 
 ## 📝 Author
-- Created by [Devesh Jaluka](https://github.com/dj216185)
+- Created by [Piyush Singhal](https://github.com/Piyush-Singhal99999)
